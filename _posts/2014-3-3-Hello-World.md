@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: The First Post of Our Website.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hi! Welcome to our website. This blog will record some interesting things that we(me and my girlfriend) in our life and job career. Include computer science and game design.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
