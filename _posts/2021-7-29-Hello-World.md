@@ -7,4 +7,6 @@ Hi! Welcome to our website. This blog will record some interesting things that w
 
 ![_config.yml]({{ site.baseurl }}/images/profile.png)
 
-If you have any question about us,  please feel free to contact us by email, twitter or github. Thanks.
+If you have any question about us,  please feel free to contact us by email, twitter or github. Thanks.  
+
+Moreover, WE LIKE VEGITABLE DOG!
