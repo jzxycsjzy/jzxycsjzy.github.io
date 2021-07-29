@@ -39,7 +39,7 @@ Not a tavern, but a temple.
 &nbsp;  
 Out of the works of my every day  
 Not a reproach, but a song.  
-&nbsp;
+&nbsp;  
 I love you,  
 Because of your existence,  
 more than any creed  
