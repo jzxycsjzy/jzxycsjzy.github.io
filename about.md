@@ -16,4 +16,4 @@ If you have any question about us or our website, plz contact me by email of add
 
 ### Contact me
 
-[jzxycsjzy@gmail.com](mailto:jzxycsjzy@gmail.com)
+[12231141@mail.sustech.edu.cn](mailto:12231141@mail.sustech.edu.cn)
