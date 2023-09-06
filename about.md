@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 Me:  
-  Graduated from the University of Liverpool, computer science. A crazy fan of computer game and programming. PhD student in SUSTech.
+  Graduated from the University of Liverpool, computer science. A crazy fan of computer game and programming. PhD student in CSE, SUSTech.
 
 My Girlfriend:  
-  Will graduate from Wuhan University. Has a big dream of become a game designer and get a lot of money(?).
+  Graduated from Wuhan University. Has a big dream of become a game designer and get a lot of money(?). Now a master student in Hong Kong University of Science and Technology.
 
 ### More Information
 
