@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Rongyuan Tan is a Ph.D. Candidate in Intelligent Manufacturing at Southern University of Science and Technology (SUSTech), Shenzhen, China. His research interests include cloud computing, distributed systems, microservice systems, AIOps, and LLM interpretability.
+Rongyuan Tan is a Ph.D. Candidate in Computer Science and Technology at Southern University of Science and Technology (SUSTech), Shenzhen, China. His research interests include cloud computing, distributed systems, microservice systems, AIOps, and LLM interpretability.
 
 ## Contact
 
@@ -14,7 +14,7 @@ Rongyuan Tan is a Ph.D. Candidate in Intelligent Manufacturing at Southern Unive
 
 ## Education
 
-- **2022–Present** — **Ph.D., Intelligent Manufacturing**, Southern University of Science and Technology, Shenzhen, China  
+- **2022–Present** — **Ph.D., Computer Science and Technology**, Southern University of Science and Technology, Shenzhen, China  
   Relevant courses: Cloud Computing, Distributed System, Microservices System.
 
 - **2019–2021** — **M.Res., Computer Science**, University of Liverpool & Xi'an Jiaotong-Liverpool University, Suzhou, China  
@@ -37,7 +37,9 @@ Rongyuan Tan is a Ph.D. Candidate in Intelligent Manufacturing at Southern Unive
 - **Contrastive Attribution on Realistic Benchmarks** (under review, Microsoft internship work)  
   Studied contrastive LRP-based attribution for LLM failure debugging, and proposed an efficient method to construct cross-layer attribution graphs in long-context settings.
 
-## Internship Experience
+## Work Experience
+
+Research and internship experience in industry collaborations and applied AI systems:
 
 - **07/2025–12/2025** — **Research Intern**, DKI Group, Microsoft, Shanghai, China  
   Conducted joint research with Microsoft on AIOps and LLM interpretability, leading to peer-reviewed publications.
