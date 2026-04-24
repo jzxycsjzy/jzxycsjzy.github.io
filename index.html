@@ -2,17 +2,30 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<article class="page">
+  <h1>Rongyuan Tan</h1>
+  <div class="entry">
+    <p>Ph.D. Candidate in Intelligent Manufacturing at Southern University of Science and Technology (SUSTech), focusing on cloud computing, distributed systems, microservice systems, AIOps, and LLM interpretability.</p>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <p><strong>Email:</strong> <a href="mailto:12231141@mail.sustech.edu.cn">12231141@mail.sustech.edu.cn</a><br>
+    <strong>Phone:</strong> +86 15895640109<br>
+    <strong>Location:</strong> SUSTech, Shenzhen, China</p>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+    <h2>Research Highlights</h2>
+    <ul>
+      <li><strong>IPDPS 2024:</strong> MAAD, a distributed anomaly detection architecture for microservice systems with improved accuracy and efficiency over centralized baselines.</li>
+      <li><strong>Under Review:</strong> Congestion-aware microservice scheduling framework with hybrid strategy selection and rapid scaling.</li>
+      <li><strong>Submitted to IEEE TSC:</strong> Multimodal distributed fault diagnosis architecture for service-level root cause localization.</li>
+      <li><strong>Microsoft Internship Work:</strong> Contrastive attribution for realistic LLM failure analysis in long-context settings.</li>
+    </ul>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Ph.D., Intelligent Manufacturing</strong>, Southern University of Science and Technology, Shenzhen, China (2022–Present)</li>
+      <li><strong>M.Res., Computer Science</strong>, University of Liverpool &amp; Xi'an Jiaotong-Liverpool University, Suzhou, China (2019–2021)</li>
+      <li><strong>B.Sc., Computer Science and Technology</strong>, Shenyang Jianzhu University, Shenyang, China (2015–2019)</li>
+    </ul>
+
+    <p>See <a href="{{ site.baseurl }}/about/">About</a> for full CV details.</p>
+  </div>
+</article>
